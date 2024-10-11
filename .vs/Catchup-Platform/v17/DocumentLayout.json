@@ -1,36 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\DALILA\\Desktop\\aplicacionesweb_s9c2\\SuperEnviar\\Catchup-Platform\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2C382F47-9C41-4756-9F6B-7165ADEF1490}|Catchup-Platform.csproj|c:\\users\\dalila\\desktop\\aplicacionesweb_s9c2\\superenviar\\catchup-platform\\news\\domain\\model\\aggregates\\favoritesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C382F47-9C41-4756-9F6B-7165ADEF1490}|Catchup-Platform.csproj|solutionrelative:news\\domain\\model\\aggregates\\favoritesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C382F47-9C41-4756-9F6B-7165ADEF1490}|Catchup-Platform.csproj|c:\\users\\dalila\\desktop\\aplicacionesweb_s9c2\\superenviar\\catchup-platform\\news\\domain\\model\\queries\\getfavoritesourcebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C382F47-9C41-4756-9F6B-7165ADEF1490}|Catchup-Platform.csproj|solutionrelative:news\\domain\\model\\queries\\getfavoritesourcebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C382F47-9C41-4756-9F6B-7165ADEF1490}|Catchup-Platform.csproj|c:\\users\\dalila\\desktop\\aplicacionesweb_s9c2\\superenviar\\catchup-platform\\news\\application\\internal\\favoritesourcequeryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C382F47-9C41-4756-9F6B-7165ADEF1490}|Catchup-Platform.csproj|solutionrelative:news\\application\\internal\\favoritesourcequeryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C382F47-9C41-4756-9F6B-7165ADEF1490}|Catchup-Platform.csproj|c:\\users\\dalila\\desktop\\aplicacionesweb_s9c2\\superenviar\\catchup-platform\\news\\domain\\services\\ifavoritesourcecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C382F47-9C41-4756-9F6B-7165ADEF1490}|Catchup-Platform.csproj|solutionrelative:news\\domain\\services\\ifavoritesourcecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C382F47-9C41-4756-9F6B-7165ADEF1490}|Catchup-Platform.csproj|c:\\users\\dalila\\desktop\\aplicacionesweb_s9c2\\superenviar\\catchup-platform\\news\\domain\\services\\ifavoritesourcequeryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C382F47-9C41-4756-9F6B-7165ADEF1490}|Catchup-Platform.csproj|solutionrelative:news\\domain\\services\\ifavoritesourcequeryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C382F47-9C41-4756-9F6B-7165ADEF1490}|Catchup-Platform.csproj|c:\\users\\dalila\\desktop\\aplicacionesweb_s9c2\\superenviar\\catchup-platform\\news\\domain\\model\\queries\\getfavoritesourcebynewsapikeyandsourceidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C382F47-9C41-4756-9F6B-7165ADEF1490}|Catchup-Platform.csproj|solutionrelative:news\\domain\\model\\queries\\getfavoritesourcebynewsapikeyandsourceidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C382F47-9C41-4756-9F6B-7165ADEF1490}|Catchup-Platform.csproj|c:\\users\\dalila\\desktop\\aplicacionesweb_s9c2\\superenviar\\catchup-platform\\news\\application\\internal\\favoritesourcecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C382F47-9C41-4756-9F6B-7165ADEF1490}|Catchup-Platform.csproj|solutionrelative:news\\application\\internal\\favoritesourcecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -38,92 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetFavoriteSourceByNewsApiKeyAndSourceIdQuery.cs",
-              "DocumentMoniker": "C:\\Users\\DALILA\\Desktop\\aplicacionesweb_s9c2\\SuperEnviar\\Catchup-Platform\\News\\Domain\\Model\\Queries\\GetFavoriteSourceByNewsApiKeyAndSourceIdQuery.cs",
-              "RelativeDocumentMoniker": "News\\Domain\\Model\\Queries\\GetFavoriteSourceByNewsApiKeyAndSourceIdQuery.cs",
-              "ToolTip": "C:\\Users\\DALILA\\Desktop\\aplicacionesweb_s9c2\\SuperEnviar\\Catchup-Platform\\News\\Domain\\Model\\Queries\\GetFavoriteSourceByNewsApiKeyAndSourceIdQuery.cs",
-              "RelativeToolTip": "News\\Domain\\Model\\Queries\\GetFavoriteSourceByNewsApiKeyAndSourceIdQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T21:32:01.5Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FavoriteSource.cs",
-              "DocumentMoniker": "C:\\Users\\DALILA\\Desktop\\aplicacionesweb_s9c2\\SuperEnviar\\Catchup-Platform\\News\\Domain\\Model\\Aggregates\\FavoriteSource.cs",
-              "RelativeDocumentMoniker": "News\\Domain\\Model\\Aggregates\\FavoriteSource.cs",
-              "ToolTip": "C:\\Users\\DALILA\\Desktop\\aplicacionesweb_s9c2\\SuperEnviar\\Catchup-Platform\\News\\Domain\\Model\\Aggregates\\FavoriteSource.cs",
-              "RelativeToolTip": "News\\Domain\\Model\\Aggregates\\FavoriteSource.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T21:31:58.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetFavoriteSourceByIdQuery.cs",
-              "DocumentMoniker": "C:\\Users\\DALILA\\Desktop\\aplicacionesweb_s9c2\\SuperEnviar\\Catchup-Platform\\News\\Domain\\Model\\Queries\\GetFavoriteSourceByIdQuery.cs",
-              "RelativeDocumentMoniker": "News\\Domain\\Model\\Queries\\GetFavoriteSourceByIdQuery.cs",
-              "ToolTip": "C:\\Users\\DALILA\\Desktop\\aplicacionesweb_s9c2\\SuperEnviar\\Catchup-Platform\\News\\Domain\\Model\\Queries\\GetFavoriteSourceByIdQuery.cs",
-              "RelativeToolTip": "News\\Domain\\Model\\Queries\\GetFavoriteSourceByIdQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T21:32:00.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IFavoriteSourceQueryService.cs",
-              "DocumentMoniker": "C:\\Users\\DALILA\\Desktop\\aplicacionesweb_s9c2\\SuperEnviar\\Catchup-Platform\\News\\Domain\\Services\\IFavoriteSourceQueryService.cs",
-              "RelativeDocumentMoniker": "News\\Domain\\Services\\IFavoriteSourceQueryService.cs",
-              "ToolTip": "C:\\Users\\DALILA\\Desktop\\aplicacionesweb_s9c2\\SuperEnviar\\Catchup-Platform\\News\\Domain\\Services\\IFavoriteSourceQueryService.cs",
-              "RelativeToolTip": "News\\Domain\\Services\\IFavoriteSourceQueryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T21:31:45.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IFavoriteSourceCommandService.cs",
-              "DocumentMoniker": "C:\\Users\\DALILA\\Desktop\\aplicacionesweb_s9c2\\SuperEnviar\\Catchup-Platform\\News\\Domain\\Services\\IFavoriteSourceCommandService.cs",
-              "RelativeDocumentMoniker": "News\\Domain\\Services\\IFavoriteSourceCommandService.cs",
-              "ToolTip": "C:\\Users\\DALILA\\Desktop\\aplicacionesweb_s9c2\\SuperEnviar\\Catchup-Platform\\News\\Domain\\Services\\IFavoriteSourceCommandService.cs",
-              "RelativeToolTip": "News\\Domain\\Services\\IFavoriteSourceCommandService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T21:31:43.865Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FavoriteSourceQueryService.cs",
-              "DocumentMoniker": "C:\\Users\\DALILA\\Desktop\\aplicacionesweb_s9c2\\SuperEnviar\\Catchup-Platform\\News\\Application\\Internal\\FavoriteSourceQueryService.cs",
-              "RelativeDocumentMoniker": "News\\Application\\Internal\\FavoriteSourceQueryService.cs",
-              "ToolTip": "C:\\Users\\DALILA\\Desktop\\aplicacionesweb_s9c2\\SuperEnviar\\Catchup-Platform\\News\\Application\\Internal\\FavoriteSourceQueryService.cs",
-              "RelativeToolTip": "News\\Application\\Internal\\FavoriteSourceQueryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T21:31:33.337Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FavoriteSourceCommandService.cs",
-              "DocumentMoniker": "C:\\Users\\DALILA\\Desktop\\aplicacionesweb_s9c2\\SuperEnviar\\Catchup-Platform\\News\\Application\\Internal\\FavoriteSourceCommandService.cs",
-              "RelativeDocumentMoniker": "News\\Application\\Internal\\FavoriteSourceCommandService.cs",
-              "ToolTip": "C:\\Users\\DALILA\\Desktop\\aplicacionesweb_s9c2\\SuperEnviar\\Catchup-Platform\\News\\Application\\Internal\\FavoriteSourceCommandService.cs",
-              "RelativeToolTip": "News\\Application\\Internal\\FavoriteSourceCommandService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T21:31:34.19Z"
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }
