@@ -10,7 +10,7 @@ namespace CatchUpPlatform.News.Application.Internal
 
         public Task CreateFavoriteSource(CreateFavoriteSourceCommand command)
         {
-            var newFavoriteSource = new FavoriteSource(command.NewsApiKey, command.SourceId);
+            var newFavoriteSource = new FavoriteSource(new Random().Next(), command.NewsApiKey, command.SourceId);
             _dataStore.Add(newFavoriteSource);
             return Task.CompletedTask;
         }
