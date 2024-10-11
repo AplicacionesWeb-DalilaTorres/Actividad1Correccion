@@ -42,26 +42,38 @@ The **Catchup-Platform** allows users to store their favorite sources of news by
 
 The project follows Clean Architecture principles, dividing code into clear layers:
 
-```vbnet
-Application
-│
-├── Internal
-│   ├── FavoriteSourceCommandService.cs
-│   └── FavoriteSourceQueryService.cs
-│
-└── Domain
-    ├── Model
-    │   └── Aggregates
-    │       └── FavoriteSource.cs
-    ├── Queries
-    │   ├── GetFavoriteSourceByIdQuery.cs
-    │   └── GetFavoriteSourceByNewsApiKeyAndSourceIdQuery.cs
-    └── Services
-        ├── IFavoriteSourceCommandService.cs
-        └── IFavoriteSourceQueryService.cs
 
+```vbnet
+Catchup-Platform
+│
+├─── News
+│    ├── Application
+│    │   └── Internal
+│    │       ├── FavoriteSourceCommandService.cs
+│    │       └── FavoriteSourceQueryService.cs
+│    ├── Domain
+│    │   ├── Model
+│    │   |   ├── Aggregates
+│    │   |   │   └── FavoriteSource.cs
+│    │   |   ├── Commands
+│    │   |   |   ├── CreateFavoriteSourceCommand.cs
+|    |   |   |   ├── DeleteFavoriteSourceCommand.cs
+|    |   |   |   └── UpdateFavoriteSourceCommand.cs
+│    │   |   ├── Entities
+│    │   |   ├── Queries
+│    │   |   |   ├── GetFavoriteSourceByIdQuery.cs
+|    |   |   |   └── GetFavoriteSourceByNewsApiKeyAndSourceIdQuery.cs
+│    │   |   └── Valueobjects
+│    │   ├── Repositories
+│    |   └── Services
+│    │       ├── IFavoriteSourceCommandService.cs
+│    │       └── IFavoriteSourceQueryService.cs
+│    ├── Infrastructure
+│    └── Interfaces
+└─── Shared
 
 ```
+
 ---
 
 ## 5. Usage
